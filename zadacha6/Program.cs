@@ -1,7 +1,7 @@
-﻿int a = -3;
+﻿int a = 6;
 if (a % 2 == 0)
-{
-    Console.WriteLine("a - четное");
- }
+
+    Console.WriteLine("a - even");
+
 else
-    Console.WriteLine("a - нечетное");
+    Console.WriteLine("a - odd");
