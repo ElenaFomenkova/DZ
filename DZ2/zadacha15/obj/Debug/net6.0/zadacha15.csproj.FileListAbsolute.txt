@@ -1,0 +1,15 @@
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\bin\Debug\net6.0\zadacha15.exe
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\bin\Debug\net6.0\zadacha15.deps.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\bin\Debug\net6.0\zadacha15.runtimeconfig.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\bin\Debug\net6.0\zadacha15.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\bin\Debug\net6.0\zadacha15.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.csproj.AssemblyReference.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.AssemblyInfoInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.AssemblyInfo.cs
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.csproj.CoreCompileInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\refint\zadacha15.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\zadacha15.genruntimeconfig.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ2\zadacha15\obj\Debug\net6.0\ref\zadacha15.dll
