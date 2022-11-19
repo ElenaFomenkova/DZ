@@ -3,3 +3,13 @@ C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\za
 C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.AssemblyInfoInputs.cache
 C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.AssemblyInfo.cs
 C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.csproj.CoreCompileInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\bin\Debug\net6.0\zadacha52.exe
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\bin\Debug\net6.0\zadacha52.deps.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\bin\Debug\net6.0\zadacha52.runtimeconfig.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\bin\Debug\net6.0\zadacha52.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\bin\Debug\net6.0\zadacha52.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\refint\zadacha52.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.genruntimeconfig.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\ref\zadacha52.dll
