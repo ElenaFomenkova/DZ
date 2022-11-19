@@ -29,7 +29,7 @@ for (int i = 0; i < Array.GetLength(0); i++)
 {
     for (int j = 0; j < Array.GetLength(1); j++)
     {
-        Console.Write("{0,6:F2}", Array[i, j]);
+        Console.Write(Array[i, j]);
         Console.Write(" ");
     };
     Console.WriteLine();

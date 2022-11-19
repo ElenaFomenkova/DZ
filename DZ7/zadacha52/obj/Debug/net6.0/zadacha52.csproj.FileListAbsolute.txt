@@ -1,0 +1,5 @@
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.csproj.AssemblyReference.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.AssemblyInfoInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.AssemblyInfo.cs
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ7\zadacha52\obj\Debug\net6.0\zadacha52.csproj.CoreCompileInputs.cache
