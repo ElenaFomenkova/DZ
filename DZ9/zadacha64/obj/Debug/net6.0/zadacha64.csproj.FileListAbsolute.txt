@@ -1,0 +1,15 @@
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.csproj.AssemblyReference.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.AssemblyInfoInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.AssemblyInfo.cs
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.csproj.CoreCompileInputs.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\bin\Debug\net6.0\zadacha64.exe
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\bin\Debug\net6.0\zadacha64.deps.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\bin\Debug\net6.0\zadacha64.runtimeconfig.json
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\bin\Debug\net6.0\zadacha64.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\bin\Debug\net6.0\zadacha64.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\refint\zadacha64.dll
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.pdb
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\zadacha64.genruntimeconfig.cache
+C:\Users\foden\Desktop\Yazikiprog\Dom zadaniya\DZ9\zadacha64\obj\Debug\net6.0\ref\zadacha64.dll
