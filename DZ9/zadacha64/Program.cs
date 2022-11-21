@@ -1,5 +1,4 @@
-﻿using static System.Console;
-string RecurNumbers(int n)
+﻿string RecurNumbers(int n)
 {
     if (n == 1)
     {
@@ -10,4 +9,4 @@ string RecurNumbers(int n)
         return n + ", " + RecurNumbers (n - 1);
     }
 }
-WriteLine(RecurNumbers(7));
+System.Console.WriteLine(RecurNumbers(7));
